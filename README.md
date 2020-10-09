@@ -1,4 +1,4 @@
-# Must-read papers on GNN
+# Shut up and Read It. Must-read papers on GNN
 GNN: graph neural network
 
 Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
